@@ -20,7 +20,6 @@ public class Database {
         {
             e.printStackTrace();
         }
-
     }
 
     public void addUser(String username, String password, String firstName, String lastName)
